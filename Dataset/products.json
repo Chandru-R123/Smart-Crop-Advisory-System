@@ -1,0 +1,1473 @@
+[
+  {
+    "Name": "Swiss Chard",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 55,
+    "Season": [{"month": "February"}, {"month": "March"}, {"month": "September"}]
+  },
+  {
+    "Name": "Collard Greens",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 65,
+    "Season": [{"month": "August"}, {"month": "September"}, {"month": "February"}]
+  },
+  {
+    "Name": "Bok Choy",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 45,
+    "Season": [{"month": "September"}, {"month": "October"}, {"month": "March"}]
+  },
+  {
+    "Name": "Mustard Greens",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 40,
+    "Season": [{"month": "October"}, {"month": "November"}, {"month": "February"}]
+  },
+  {
+    "Name": "Fenugreek Leaves (Methi)",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 30,
+    "Season": [{"month": "October"}, {"month": "November"}, {"month": "March"}]
+  },
+  {
+    "Name": "Amaranth Leaves (Thotakura)",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 35,
+    "Season": [{"month": "June"}, {"month": "July"}, {"month": "August"}]
+  },
+  {
+    "Name": "Brussels Sprouts",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "August"}, {"month": "September"}]
+  },
+  {
+    "Name": "Parsnip",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Yam",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Cassava (Tapioca)",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Shallot",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Phosphorus"}, {"name": "Potassium"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Fennel",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "March"}, {"month": "April"}, {"month": "September"}]
+  },
+  {
+    "Name": "Celery",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 130,
+    "Season": [{"month": "August"}, {"month": "September"}]
+  },
+  {
+    "Name": "Rhubarb",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 12,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Kohlrabi",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 55,
+    "Season": [{"month": "February"}, {"month": "March"}, {"month": "September"}]
+  },
+  {
+    "Name": "Snow Peas",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Phosphorus"}, {"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Broad Beans",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 14,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Phosphorus"}, {"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Winged Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Ridge Gourd",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 70,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Snake Gourd",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 78,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Ash Gourd",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Chilli Pepper",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "January"}, {"month": "February"}, {"month": "June"}]
+  },
+  {
+    "Name": "Turmeric",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Plantain",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Banana Blossom",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Seaweed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 90,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Kelp",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 12,
+    "Humidity": 95,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "December"}, {"month": "January"}]
+  },
+  {
+    "Name": "Squash",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 65,
+    "Season": [{"month": "January"}, {"month": "February"}, {"month": "June"}]
+  },
+  {
+    "Name": "Watercress",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 40,
+    "Season": [{"month": "March"}, {"month": "April"}, {"month": "September"}]
+  },
+  {
+    "Name": "Endive",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 50,
+    "Season": [{"month": "August"}, {"month": "September"}]
+  },
+  {
+    "Name": "Radicchio",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "August"}, {"month": "September"}]
+  },
+  {
+    "Name": "Jicama",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Salsify",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Scorzonera",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Skirret",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Oca",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 14,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Ulluco",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 14,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Celeriac",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 140,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Sunchoke",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Malanga",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Yuca",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Chayote",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Luffa",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Nopales",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 40,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Tomatillo",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Ground Cherry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 70,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Water Spinach",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 45,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Egyptian Spinach",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 50,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Orach",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 50,
+    "Season": [{"month": "March"}, {"month": "April"}, {"month": "September"}]
+  },
+  {
+    "Name": "Good King Henry",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Tree Collards",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "February"}, {"month": "March"}, {"month": "September"}]
+  },
+  {
+    "Name": "Sea Kale",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Skirret",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  }
+]
+[
+  {
+    "Name": "Spinach",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 45,
+    "Season": [{"month": "September"}, {"month": "October"}, {"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Kale",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 55,
+    "Season": [{"month": "September"}, {"month": "October"}]
+  },
+  {
+    "Name": "Lettuce",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 50,
+    "Season": [{"month": "October"}, {"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Cabbage",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "August"}, {"month": "September"}, {"month": "October"}]
+  },
+  {
+    "Name": "Broccoli",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 70,
+    "Season": [{"month": "September"}, {"month": "October"}]
+  },
+  {
+    "Name": "Cauliflower",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "September"}, {"month": "October"}]
+  },
+  {
+    "Name": "Carrot",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Radish",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 30,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Potato",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Phosphorus"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Onion",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 13,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Phosphorus"}, {"name": "Potassium"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "October"}, {"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Tomato",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Phosphorus"}, {"name": "Potassium"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "June"}, {"month": "July"}, {"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Brinjal (Eggplant)",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "June"}, {"month": "July"}, {"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Bell Pepper (Capsicum)",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Potassium"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "January"}, {"month": "February"}, {"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Cucumber",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "January"}, {"month": "February"}, {"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Pumpkin",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Okra (Lady's Finger)",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 30,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 55,
+    "Season": [{"month": "June"}, {"month": "July"}, {"month": "August"}]
+  },
+  {
+    "Name": "Green Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 50,
+    "Season": [{"month": "January"}, {"month": "February"}, {"month": "October"}]
+  }
+]
+[
+  {
+    "Name": "Apple",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Sandy Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Mango",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Banana",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Orange",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Potassium"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Strawberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Grapes",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pineapple",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 540,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Watermelon",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Papaya",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pomegranate",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Kiwi",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Peach",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Pear",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Cherry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Plum",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Apricot",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Fig",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Guava",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Lychee",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Dragon Fruit",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Jackfruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Coconut",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 1095,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Avocado",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Blueberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Raspberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Blackberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Cranberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Gooseberry",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Currant",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Date",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 50,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 1095,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Persimmon",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Passion Fruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Starfruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Kumquat",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Lemon",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Lime",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Grapefruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 72,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Tangerine",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Clementine",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 170,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Mandarin",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 175,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Boysenberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Elderberry",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 68,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Mulberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Loganberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Marionberry",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 72,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Olive",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 1095,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pomelo",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Quince",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Tamarind",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Jujube",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Longan",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Rambutan",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Mangosteen",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Soursop",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Custard Apple",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Sugar Apple",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 170,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Cherimoya",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pawpaw",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Feijoa",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Loquat",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Nectarine",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 140,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Plantain",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Breadfruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Durian",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Carambola",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Miracle Fruit",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Jabuticaba",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Salak",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Santol",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Bilberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Cloudberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 12,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Huckleberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Lingonberry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Acerola",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Amla",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Bael",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Camu Camu",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Cupuacu",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Genipa",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Grumichama",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Jaboticaba",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Kei Apple",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Mamey Sapote",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Naranjilla",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pepino",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Pitanga",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 60,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Sapodilla",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Tomatillo",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Ugni",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Wampee",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "White Sapote",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Yangmei",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Ziziphus",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  }
+]
