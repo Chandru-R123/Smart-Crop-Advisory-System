@@ -1471,3 +1471,797 @@
     "Season": [{"month": "March"}, {"month": "April"}]
   }
 ]
+[
+  {
+    "Name": "Wheat",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Phosphorus"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Rice",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Potassium"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Corn",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Nitrogen"}, {"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Almond",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "February"}, {"month": "March"}]
+  },
+  {
+    "Name": "Walnut",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Cashew",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Peanut",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Sunflower Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Barley",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Nitrogen"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Oats",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Nitrogen"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Soybean",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Pistachio",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 50,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Hazelnut",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Macadamia",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "September"}, {"month": "October"}]
+  },
+  {
+    "Name": "Pecan",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Quinoa",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Millet",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Sorghum",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Chia Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Flax Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Pumpkin Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Sesame Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 27,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Poppy Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Buckwheat",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 70,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Rye",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 16,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Nitrogen"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Spelt",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Amaranth",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Teff",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Brazil Nut",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 540,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Chestnut",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 17,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Pine Nut",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 15,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 450,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Water Chestnut",
+    "Soil type grow": [{"name": "Clay Loam"}, {"name": "Silty Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Lentil",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Chickpea",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Mung Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Kidney Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Black Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 90,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Pinto Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Adzuki Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Fava Bean",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Lima Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Soybean",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Green Gram",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 70,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Black Gram",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Pigeon Pea",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Cowpea",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 75,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Mustard Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Coriander Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Cumin Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "November"}, {"month": "December"}]
+  },
+  {
+    "Name": "Fennel Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Fenugreek Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Caraway Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 105,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Cardamom Seed",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Nigella Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 21,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Anise Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Celery Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 62,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Dill Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Basil Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Chia Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Hemp Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 20,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 110,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Pomegranate Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}, {"name": "Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "January"}, {"month": "February"}]
+  },
+  {
+    "Name": "Watermelon Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 85,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Cantaloupe Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 70,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 80,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Safflower Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 23,
+    "Humidity": 55,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Rapeseed",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 19,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 100,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Canola Seed",
+    "Soil type grow": [{"name": "Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 58,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 95,
+    "Season": [{"month": "October"}, {"month": "November"}]
+  },
+  {
+    "Name": "Cotton Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Kapok Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 180,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Jatropha Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 210,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Neem Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Tigernut",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 65,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 120,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Tamarind Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Date Seed",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 28,
+    "Humidity": 50,
+    "Fertilizer": [{"name": "Potassium"}, {"name": "Compost"}],
+    "Duration of growth days": 1095,
+    "Season": [{"month": "March"}, {"month": "April"}]
+  },
+  {
+    "Name": "Coffee Bean",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Cocoa Bean",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Vanilla Bean",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Tonka Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 300,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Castor Bean",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 150,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Cacao Bean",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 85,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Pepper Corn",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Allspice",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 240,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Clove",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 26,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Nutmeg",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Mace",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 80,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Cinnamon",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 24,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 365,
+    "Season": [{"month": "June"}, {"month": "July"}]
+  },
+  {
+    "Name": "Star Anise",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 22,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  },
+  {
+    "Name": "Juniper Berry",
+    "Soil type grow": [{"name": "Sandy Loam"}],
+    "Temprature celcius": 18,
+    "Humidity": 60,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 730,
+    "Season": [{"month": "April"}, {"month": "May"}]
+  },
+  {
+    "Name": "Peppercorn",
+    "Soil type grow": [{"name": "Silty Loam"}, {"name": "Clay Loam"}],
+    "Temprature celcius": 25,
+    "Humidity": 75,
+    "Fertilizer": [{"name": "Compost"}],
+    "Duration of growth days": 270,
+    "Season": [{"month": "May"}, {"month": "June"}]
+  }
+]
